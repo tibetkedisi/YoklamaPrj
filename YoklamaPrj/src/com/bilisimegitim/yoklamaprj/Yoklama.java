@@ -5,7 +5,7 @@ public class Yoklama {
 
 	public static void main(String[] args) {
 
-		String isimler [] = {"Bora","Esra","Berna","Sertaç","Boğaç","Gülşah","Yunus", "Taner"} ;
+		String isimler [] = {"Esra","Berna","Sertaç","Boğaç","Gülşah","Yunus", "Taner"} ;
 		
 		//isimleri yazdırıyoruz
 			for (int i = 0; i < isimler.length; i++) {
